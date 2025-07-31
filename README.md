@@ -19,24 +19,24 @@ Welcome to my daily LeetCode journey! 🎯 This repository contains my solutions
 
 ```
 📦 Leet-code
-├── 📂 01_Two_sum/
+├── 📂 0001_Two_sum/
 │   └── Brute_force.java
-├── 📂 02_Add_two_numbers/
+├── 📂 0002_Add_two_numbers/
 │   └── Solution.java
-├── 📂 09_Palindrome_Number/
+├── 📂 0009_Palindrome_Number/
 │   └── Solution.java
-├── 📂 13_Roman_to_Integer/
+├── 📂 0013_Roman_to_Integer/
 │   └── Solution.java
-├── 📂 26_remove_duplicates/
+├── 📂 0026_remove_duplicates/
 │   ├── actual_solution.js
 │   └── solution.js
-├── 📂 121_Best_time_to_but_or_sell_a_stock/
+├── 📂 0121_Best_time_to_but_or_sell_a_stock/
 │   ├── Brute_Force.js
 │   └── Solution.js
-├── 📂 169_majority_element/
+├── 📂 0169_majority_element/
 │   ├── Brute_force.js
 │   └── moose_voting.js
-├── 📂 283_Move_zero/
+├── 📂 0283_Move_zero/
 │   ├── Brute_force.js
 │   └── Two_pointers.js
 └── README.md
