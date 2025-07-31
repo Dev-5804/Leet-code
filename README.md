@@ -8,10 +8,10 @@ Welcome to my daily LeetCode journey! 🎯 This repository contains my solutions
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 7
+- **Total Problems Solved**: 8
 - **Languages Used**: Java, JavaScript
 - **Difficulty Distribution**:
-  - 🟢 Easy: 6
+  - 🟢 Easy: 7
   - 🟡 Medium: 1
   - 🔴 Hard: 0
 
@@ -30,6 +30,9 @@ Welcome to my daily LeetCode journey! 🎯 This repository contains my solutions
 ├── 📂 26_remove_duplicates/
 │   ├── actual_solution.js
 │   └── solution.js
+├── 📂 121_Best_time_to_but_or_sell_a_stock/
+│   ├── Brute_Force.js
+│   └── Solution.js
 ├── 📂 169_majority_element/
 │   ├── Brute_force.js
 │   └── moose_voting.js
@@ -54,7 +57,8 @@ Each problem folder contains:
 | Problem # | Problem Name | Difficulty | Language | Topics |
 |-----------|--------------|------------|----------|--------|
 | 283 | Move Zeroes | 🟢 Easy | JavaScript | Array, Two Pointers |
-| 169 | Majority Element | 🟢 Easy | JavaScript | Array, Moose Vooting Algo |
+| 169 | Majority Element | 🟢 Easy | JavaScript | Array, Boyer-Moore Voting Algorithm |
+| 121 | Best Time to Buy and Sell Stock | 🟢 Easy | JavaScript | Array, Dynamic Programming |
 | 26 | Remove Duplicates from Sorted Array | 🟢 Easy | JavaScript | Array, Two Pointers |
 | 13 | Roman to Integer | 🟢 Easy | Java | String |
 | 9 | Palindrome Number | 🟢 Easy | Java | Mathematical |
@@ -133,10 +137,10 @@ Feel free to:
 ## 📊 Statistics
 
 ```
-Total Problems: 7
-Languages: Java (57%), JavaScript (43%)
-Easy Problems: 5 (71%)
-Medium Problems: 2 (29%)
+Total Problems: 8
+Languages: Java (50%), JavaScript (50%)
+Easy Problems: 7 (87.5%)
+Medium Problems: 1 (12.5%)
 Hard Problems: 0 (0%)
 Most Common Topics: Arrays, Two Pointers, Hash Tables
 ```

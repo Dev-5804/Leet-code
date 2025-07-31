@@ -1,6 +1,4 @@
 
-import java.util.Arrays;
-
 public class Brute_force {
     public static int[] twoSum(int[] nums, int target){
         int[] res = null;

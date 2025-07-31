@@ -1,6 +1,3 @@
-
-import java.util.Scanner;
-
 public class Solution {
 
     public static boolean isPalindrome(int x) {
