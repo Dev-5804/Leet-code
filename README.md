@@ -121,9 +121,8 @@ var functionName = function(parameter) {
 
 ## 🤝 Connect & Contribute
 
-- 🔗 **LeetCode Profile**: [Your LeetCode Profile]
-- 💼 **LinkedIn**: [Your LinkedIn]
-- 📧 **Email**: [Your Email]
+- 🔗 **LeetCode Profile**: https://leetcode.com/u/devendra_mali/
+- 💼 **LinkedIn**: https://www.linkedin.com/in/dev-endra-mali/
 
 Feel free to:
 - ⭐ Star this repository if you find it helpful
