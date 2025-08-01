@@ -8,11 +8,11 @@ Welcome to my daily LeetCode journey! 🎯 This repository contains my solutions
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 8
+- **Total Problems Solved**: 9
 - **Languages Used**: Java, JavaScript
 - **Difficulty Distribution**:
   - 🟢 Easy: 7
-  - 🟡 Medium: 1
+  - 🟡 Medium: 2
   - 🔴 Hard: 0
 
 ## 📁 Repository Structure
@@ -36,6 +36,8 @@ Welcome to my daily LeetCode journey! 🎯 This repository contains my solutions
 ├── 📂 0169_majority_element/
 │   ├── Brute_force.js
 │   └── moose_voting.js
+├── 📂 0189_Rotate_aaray/
+│   └── Solution.js
 ├── 📂 0283_Move_zero/
 │   ├── Brute_force.js
 │   └── Two_pointers.js
@@ -56,6 +58,7 @@ Each problem folder contains:
 
 | Problem # | Problem Name | Difficulty | Language | Topics |
 |-----------|--------------|------------|----------|--------|
+| 189 | Rotate Array | � Medium | JavaScript | Array, Two Pointers |
 | 283 | Move Zeroes | 🟢 Easy | JavaScript | Array, Two Pointers |
 | 169 | Majority Element | 🟢 Easy | JavaScript | Array, Boyer-Moore Voting Algorithm |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | JavaScript | Array, Dynamic Programming |
@@ -137,10 +140,10 @@ Feel free to:
 ## 📊 Statistics
 
 ```
-Total Problems: 8
-Languages: Java (50%), JavaScript (50%)
-Easy Problems: 7 (87.5%)
-Medium Problems: 1 (12.5%)
+Total Problems: 9
+Languages: Java (44.4%), JavaScript (55.6%)
+Easy Problems: 7 (77.8%)
+Medium Problems: 2 (22.2%)
 Hard Problems: 0 (0%)
 Most Common Topics: Arrays, Two Pointers, Hash Tables
 ```
@@ -160,5 +163,5 @@ Most Common Topics: Arrays, Two Pointers, Hash Tables
 **Happy Coding!** 🚀
 
 ---
-*Last Updated: July 31, 2025*
+*Last Updated: August 1, 2025*
 *Repository maintained with ❤️ and lots of ☕*
