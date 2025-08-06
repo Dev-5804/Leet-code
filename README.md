@@ -20,7 +20,8 @@ Welcome to my daily LeetCode journey! 🎯 This repository contains my solutions
 ```
 📦 Leet-code
 ├── 📂 0001_Two_sum/
-│   └── Brute_force.java
+│   ├── Brute_force.java
+│   └── Brute_force.js
 ├── 📂 0002_Add_two_numbers/
 │   └── Solution.java
 ├── 📂 0009_Palindrome_Number/
@@ -58,7 +59,7 @@ Each problem folder contains:
 
 | Problem # | Problem Name | Difficulty | Language | Topics |
 |-----------|--------------|------------|----------|--------|
-| 189 | Rotate Array | � Medium | JavaScript | Array, Two Pointers |
+| 189 | Rotate Array | 🟡 Medium | JavaScript | Array, Two Pointers |
 | 283 | Move Zeroes | 🟢 Easy | JavaScript | Array, Two Pointers |
 | 169 | Majority Element | 🟢 Easy | JavaScript | Array, Boyer-Moore Voting Algorithm |
 | 121 | Best Time to Buy and Sell Stock | 🟢 Easy | JavaScript | Array, Dynamic Programming |
@@ -66,7 +67,7 @@ Each problem folder contains:
 | 13 | Roman to Integer | 🟢 Easy | Java | String |
 | 9 | Palindrome Number | 🟢 Easy | Java | Mathematical |
 | 2 | Add Two Numbers | 🟡 Medium | Java | Linked List, Math |
-| 1 | Two Sum | 🟢 Easy | Java | Array |
+| 1 | Two Sum | 🟢 Easy | Java, JavaScript | Array |
 
 ## 💡 Solution Template
 
@@ -141,7 +142,7 @@ Feel free to:
 
 ```
 Total Problems: 9
-Languages: Java (44.4%), JavaScript (55.6%)
+Languages: Java (45.5%), JavaScript (54.5%)
 Easy Problems: 7 (77.8%)
 Medium Problems: 2 (22.2%)
 Hard Problems: 0 (0%)
@@ -163,5 +164,5 @@ Most Common Topics: Arrays, Two Pointers, Hash Tables
 **Happy Coding!** 🚀
 
 ---
-*Last Updated: August 1, 2025*
+*Last Updated: August 6, 2025*
 *Repository maintained with ❤️ and lots of ☕*
