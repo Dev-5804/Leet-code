@@ -8,11 +8,11 @@ Welcome to my daily LeetCode journey! 🎯 This repository contains my solutions
 
 ## 📊 Progress Overview
 
-- **Total Problems Solved**: 9
-- **Languages Used**: Java, JavaScript
+- **Total Problems Solved**: 11
+- **Languages Used**: Java, JavaScript, C++
 - **Difficulty Distribution**:
-  - 🟢 Easy: 7
-  - 🟡 Medium: 2
+  - 🟢 Easy: 8
+  - 🟡 Medium: 3
   - 🔴 Hard: 0
 
 ## 📁 Repository Structure
@@ -39,9 +39,14 @@ Welcome to my daily LeetCode journey! 🎯 This repository contains my solutions
 │   └── moose_voting.js
 ├── 📂 0189_Rotate_aaray/
 │   └── Solution.js
+├── 📂 0238_Product_of_array_except_self/
+│   └── Solution.js
 ├── 📂 0283_Move_zero/
 │   ├── Brute_force.js
 │   └── Two_pointers.js
+├── 📂 0643_Maximum_Average_Subarray_1/
+│   ├── Brute_Force.cpp
+│   └── Solution.cpp
 └── README.md
 ```
 
@@ -59,6 +64,8 @@ Each problem folder contains:
 
 | Problem # | Problem Name | Difficulty | Language | Topics |
 |-----------|--------------|------------|----------|--------|
+| 643 | Maximum Average Subarray I | 🟢 Easy | C++ | Vector, Sliding Window |
+| 238 | Product of Array Except Self | 🟡 Medium | JavaScript | Array, Prefix Sum |
 | 189 | Rotate Array | 🟡 Medium | JavaScript | Array, Two Pointers |
 | 283 | Move Zeroes | 🟢 Easy | JavaScript | Array, Two Pointers |
 | 169 | Majority Element | 🟢 Easy | JavaScript | Array, Boyer-Moore Voting Algorithm |
@@ -118,6 +125,7 @@ var functionName = function(parameter) {
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 📚 Resources
@@ -141,20 +149,18 @@ Feel free to:
 ## 📊 Statistics
 
 ```
-Total Problems: 9
-Languages: Java (45.5%), JavaScript (54.5%)
-Easy Problems: 7 (77.8%)
-Medium Problems: 2 (22.2%)
+Total Problems: 11
+Languages: Java (36.4%), JavaScript (45.5%), C++ (18.1%)
+Easy Problems: 8 (72.7%)
+Medium Problems: 3 (27.3%)
 Hard Problems: 0 (0%)
-Most Common Topics: Arrays, Two Pointers, Hash Tables
+Most Common Topics: Arrays, Two Pointers, Sliding Window, Hash Tables
 ```
 
 ## 🎯 Goals
 
 - [ ] Reach 500 problems solved
 - [ ] Master all major algorithmic patterns
-- [ ] Contribute to LeetCode discussions
-- [ ] Maintain 100% daily streak for a year
 - [ ] Optimize solutions for better performance
 
 ---
@@ -164,5 +170,5 @@ Most Common Topics: Arrays, Two Pointers, Hash Tables
 **Happy Coding!** 🚀
 
 ---
-*Last Updated: August 6, 2025*
+*Last Updated: November 28, 2025*
 *Repository maintained with ❤️ and lots of ☕*
